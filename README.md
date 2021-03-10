@@ -139,8 +139,8 @@ let myApple = turtle.fromSprite(sprites.create(img`
     `, SpriteKind.Player))
 myDuck.moveDirection(TurtleDirection.Forward, 25)
 myApple.moveDirection(TurtleDirection.Backward, 25)
-myDuck.turnTurtleDirectionByDegrees(TurtleTurnDirection.Right, 90)
-myApple.turnTurtleDirectionByDegrees(TurtleTurnDirection.Left, 90)
+myDuck.turnDirectionByDegrees(TurtleTurnDirection.Right, 90)
+myApple.turnDirectionByDegrees(TurtleTurnDirection.Left, 90)
 ```
 
 ## Step 4
@@ -186,8 +186,8 @@ let myApple = turtle.fromSprite(sprites.create(img`
     `, SpriteKind.Player))
 myDuck.moveDirection(TurtleDirection.Forward, 25)
 myApple.moveDirection(TurtleDirection.Backward, 25)
-myDuck.turnTurtleDirectionByDegrees(TurtleTurnDirection.Right, 90)
-myApple.turnTurtleDirectionByDegrees(TurtleTurnDirection.Left, 90)
+myDuck.turnDirectionByDegrees(TurtleTurnDirection.Right, 90)
+myApple.turnDirectionByDegrees(TurtleTurnDirection.Left, 90)
 myDuck.moveDirection(TurtleDirection.Forward, 25)
 myApple.moveDirection(TurtleDirection.Backward, 25)
 ```
@@ -235,8 +235,8 @@ let myApple = turtle.fromSprite(sprites.create(img`
     `, SpriteKind.Player))
 myDuck.moveDirection(TurtleDirection.Forward, 10)
 myApple.moveDirection(TurtleDirection.Backward, 30)
-myDuck.turnTurtleDirectionByDegrees(TurtleTurnDirection.Right, 45)
-myApple.turnTurtleDirectionByDegrees(TurtleTurnDirection.Left, 30)
+myDuck.turnDirectionByDegrees(TurtleTurnDirection.Right, 45)
+myApple.turnDirectionByDegrees(TurtleTurnDirection.Left, 30)
 myDuck.moveDirection(TurtleDirection.Forward, 60)
 myApple.moveDirection(TurtleDirection.Backward, 15)
 ```
