@@ -250,7 +250,7 @@ You can now make the **Turtle Objects** turn right and left.
 ## Step 7
 **Your Turn**
 
-Create 2 variables, with proper names and assign then to be **Turtle Objects**. Then get each **Turtle Object** to:
+Create 2 variables, with proper names and assign them to be **Turtle Objects**. Then get each **Turtle Object** to:
 - move
 - turn
 - move again
