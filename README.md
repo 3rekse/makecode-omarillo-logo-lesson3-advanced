@@ -259,11 +259,12 @@ Create 2 variables, with proper names and assign them to be **Turtle Objects**. 
 ## Step 8
 **Done**
 
-You have successfully completed your third lesson in Turtle Logo.
+You have successfully completed your forth lesson in Turtle Logo.
 
 ```ghost
 let myTurtle = turtle.fromSprite(sprites.create(img``, SpriteKind.Player))
 myTurtle.moveDirection(TurtleDirection.Forward, 25)
 myTurtle.turnDirectionByDegrees(TurtleTurnDirection.Right, 90)
+myDuck.setPenColor(1)
 myTurtle.say("Hello, World!")
 ```
