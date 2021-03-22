@@ -240,7 +240,6 @@ myApple.turnDirectionByDegrees(TurtleTurnDirection.Left, 30)
 myDuck.moveDirection(TurtleDirection.Forward, 60)
 myApple.moveDirection(TurtleDirection.Backward, 15)
 ```
-```
 
 ## Step 6
 **Success!**
@@ -265,6 +264,5 @@ You have successfully completed your forth lesson in Turtle Logo.
 let myTurtle = turtle.fromSprite(sprites.create(img``, SpriteKind.Player))
 myTurtle.moveDirection(TurtleDirection.Forward, 25)
 myTurtle.turnDirectionByDegrees(TurtleTurnDirection.Right, 90)
-myDuck.setPenColor(1)
 myTurtle.say("Hello, World!")
 ```
